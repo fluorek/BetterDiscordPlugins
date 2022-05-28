@@ -22,8 +22,27 @@
  - LastMessageDate (Pokazuje datę ostatniej wysłanej wiadomości).
  - InvisibleTyping (Pisz bez pokazywania innym).
  - ImageUtilities (Możesz zapisywać i przybliżać obrazki itd.).
+ - GuildProfile (Pokazuje detale serwera).
+ - FileViewer (Możesz otwierać pliki w discordzie).
+ - FavoriteMedia (Możesz oznaczać media jako ulubione).
+ - EditUsers (Łatwiejsze edytowanie uzytkowników).
+ - DoNotTrack (Zapobiega zbieraniu informacji o tobie).
+ - DiscordActivities (Umożliwia granie w beta gry discord).
+ - CustomStatusPresets (Lepsze statusy).
+ - CreationDate (Pokazuje datę stworzenia konta).
+ - CallTimeCounter (Pokazuje ile czasu spędziłeś na kanale).
+ - BugReportHelper (Usuwa błędy).
+ - BetterVolume (Lepsza kontrola głośności).
+ - BetterSearchPage (Lepsze wyszukiwanie).
+ - BetterRoleColors (Pokazuje wszędzie kolor roli).
+ - BetterNsfwTag (Pokazuje znaczek NSFW przy kanałach).
+ - BetterFriendList (Lepsza lista przyjaciół).
+ - BetterFolders (Lepsze foldery).
+ - BegoneAutoPause (Nie zatrzymuje muzyki po 30 sekundach).
+ - AutoStartRichPresence (Pokazuje wizytuwkę w miejscu aktywności).
+ - AutoPlayGifs (Ałtomatycznie włącza gify).
+ - Animations (Dodaje animacje do discorda).
  - 
- -
  
 ## Themes
  - [TransientMaterial](https://github.com/rauenzi/BetterDiscordAddons/tree/master/Themes/TransientMaterial) - Transparency patch theme for Nox. Also works fairly well on its own.
