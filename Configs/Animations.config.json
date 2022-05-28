@@ -21,7 +21,7 @@
                 "page": 0
             },
             "duration": 0.2,
-            "delay": 0.02,
+            "delay": 0.01,
             "limit": 100
         },
         "messages": {
