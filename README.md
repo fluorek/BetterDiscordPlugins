@@ -1,6 +1,6 @@
 # BetterDiscordPlugins
  Najlepsze pluginy Better Discord
-## Plugins + libs
+## Plugins
  - VoiceChatMoveAll (Przenoś wszystkich na inny kanał).
  - UploadFromLinks (Umożliwia przesyłanie z linków poprzez otoczenie linku w kwadratowych nawiasach).
  - TypingUsersAvatars (Pokazuje awatary osób które piszą na kanale).
@@ -42,8 +42,10 @@
  - AutoStartRichPresence (Pokazuje wizytuwkę w miejscu aktywności).
  - AutoPlayGifs (Ałtomatycznie włącza gify).
  - Animations (Dodaje animacje do discorda).
- - 
+ - APlatformIndicators (Pokazuje platformy uzytkowników).
  
 ## Themes
- - [TransientMaterial](https://github.com/rauenzi/BetterDiscordAddons/tree/master/Themes/TransientMaterial) - Transparency patch theme for Nox. Also works fairly well on its own.
- - [Nox](https://github.com/rauenzi/Nox) - A beautiful dark material theme for Discord. This is the rebrand and continuation of Beard's Material Design Theme which has been discontinued.
+ - BetterBadges (Lepsze odznaki).
+ - Delux (Luksusowy discord).
+ - Hacker (Dla hackermanów).
+ - channelcolor (Kolory kanałów).
