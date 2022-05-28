@@ -43,6 +43,8 @@ Najlepsze pluginy Better Discord
 - AutoPlayGifs (Automatycznie włącza gify).
 - Animations (Dodaje animacje do discorda).
 - APlatformIndicators (Pokazuje platformy użytkowników).
+- Apate (Dodaje ukryte wiadomości).
+- 
 
 ## Themes
 - BetterBadges (Lepsze odznaki).
