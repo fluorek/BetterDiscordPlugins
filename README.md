@@ -11,17 +11,18 @@
  - ShowHiddenChannels (Pokazuje niedostępne kanały).
  - ShowConnections (Pokazuje połączone konta).
  - ShowAllActivities (Pokazuje wszystkie aktywności).
- - ServerDetails (Pokazuje detale serwera).
+ - RelationshipsNotifier (Pokazuje wiadomości o relacjach takich jak dodanie do przyjaciół).
+ - ReadAllNotificationsButton (Możesz przeczytać wszystko jednym kliknięciem).
+ - PinDMs (Przypnij znajomych na górę listy).
+ - PermissionsViewer (Pokazuje uprawnienia innych).
+ - NoBandwidthKick (Nie rozłącza cię z rozmowy po 5 minutach).
+ - NitroEmoteAndScreenShareBypass (Masz emotki i udostępnianie ekranu jak w nitro).
+ - MessageLoggerV2 (Zapisuje usunięte wiadomości).
+ - MessageCleaner (Czyści kanał).
+ - LastMessageDate (Pokazuje datę ostatniej wysłanej wiadomości).
+ - InvisibleTyping (Pisz bez pokazywania innym).
+ - ImageUtilities (Możesz zapisywać i przybliżać obrazki itd.).
  - 
- -
- -
- -
- -
- -
- -
- -
- -
- -
  -
  
 ## Themes
