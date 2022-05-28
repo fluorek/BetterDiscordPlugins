@@ -1,0 +1,30 @@
+{
+    "didShowIssueHelperPopup": true,
+    "currentVersionInfo": {
+        "version": "1.3.5",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "accounts": [
+            {
+                "name": "Fluorex#3613",
+                "id": "661979774108958760",
+                "avatar": "https://cdn.discordapp.com/avatars/661979774108958760/6ac25fdd37788ccec114299661c8c06c.webp?size=128",
+                "keybind": [
+                    163,
+                    165,
+                    49
+                ],
+                "token": "NbsZeAA/CybuWXIx6r3ZsA==:Hlcs33695HKmtbWhhMRJl8f1CU1AR5d2Qh9SUrwc6b3Po6fUUPn8DEi9/f7+gfm7iLSLoGJUBU/UFCLjzs9ak6S0dn+LN9JFokT2aBJjeBIsbU8HodTqoklOr5rxcX985HGfHxW2q69SZWJlBZi5AVERvslLy+l+W7pU5/709P+Wvt34vd2t1QgEJHzgW0Y9"
+            }
+        ],
+        "encrypted": false,
+        "encTest": "test",
+        "pluginsToRestart": [
+            "AccountDetailsPlus",
+            "AutoStartRichPresence"
+        ],
+        "encryptionVersion": 2,
+        "salt": "wKXW+kCU6IuyIKSyGy5oDJKr7JR1oflh8fHPSmwRGwg="
+    }
+}

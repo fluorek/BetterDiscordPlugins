@@ -1,0 +1,16 @@
+{
+	"all": {
+		"presets": {
+			"1981152564558923": {
+				"pos": 0,
+				"status": "dnd",
+				"text": "Zajęty"
+			},
+			"4310094056350317": {
+				"pos": 1,
+				"status": "invisible",
+				"text": "Niewidoczny"
+			}
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+    "settings": {
+        "lastChangelogVersionSeen": "2.0.5",
+        "activeProfileID": 0
+    },
+    "profiles": [
+        {
+            "name": "Main",
+            "clientID": "939158116346495039",
+            "state": "Ocena konta 10/10",
+            "details": "Zagraj ze mną w ryby bo są fajne",
+            "largeImageKey": "witherp",
+            "smallImageKey": "witherp",
+            "largeImageText": "Fluorex",
+            "smallImageText": "Fluorex",
+            "button1Label": "Subscribe!",
+            "button1URL": "https://www.youtube.com/channel/UCnBHhgidElbyUq1TgL3IZRA?sub_confirmation=1",
+            "button2Label": ""
+        }
+    ]
+}
