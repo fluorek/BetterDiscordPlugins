@@ -1,6 +1,7 @@
 # BetterDiscordPlugins
 Najlepsze pluginy Better Discord
 ## Plugins
+- discordExperiments (Włącza funkcje eksperymentalne).
 - VoiceChatMoveAll (Przenoś wszystkich na inny kanał).
 - UploadFromLinks (Umożliwia przesyłanie z linków poprzez otoczenie linku w kwadratowych nawiasach).
 - TypingUsersAvatars (Pokazuje awatary osób, które piszą na kanale).
@@ -17,6 +18,7 @@ Najlepsze pluginy Better Discord
 - PermissionsViewer (Pokazuje uprawnienia innych).
 - NoBandwidthKick (Nie rozłącza cię z rozmowy po 5 minutach).
 - NitroEmoteAndScreenShareBypass (Masz emotki i udostępnianie ekranu jak w nitro).
+- MultiInstance (Możesz mieć wiele discordów jednocześnie).
 - MessageLoggerV2 (Zapisuje usunięte wiadomości).
 - MessageCleaner (Czyści kanał).
 - LastMessageDate (Pokazuje datę ostatniej wysłanej wiadomości).
@@ -41,10 +43,9 @@ Najlepsze pluginy Better Discord
 - BegoneAutoPause (Nie zatrzymuje muzyki po 30 sekundach).
 - AutoStartRichPresence (Pokazuje wizytówkę w miejscu aktywności).
 - AutoPlayGifs (Automatycznie włącza gify).
+- Apate (Dodaje ukryte wiadomości).
 - Animations (Dodaje animacje do discorda).
 - APlatformIndicators (Pokazuje platformy użytkowników).
-- Apate (Dodaje ukryte wiadomości).
-- 
 
 ## Themes
 - BetterBadges (Lepsze odznaki).
