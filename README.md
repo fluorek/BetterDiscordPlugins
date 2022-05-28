@@ -6,6 +6,7 @@
  - TypingUsersAvatars (Pokazuje awatary osób które piszą na kanale).
  - StatusEverywhere (Pokazuje twój i innych status w wielu miejscach).
  - SpotifyCrack (Możesz słuchać razem spotify bez discord nitro).
+ - SpotifyControls (Możesz kontrolować spotify z discorda).
  - SplitLargeMessages (Możesz wysyłać dłuższe wiadomości).
  - ShowHiddenChannels (Pokazuje niedostępne kanały).
  - ShowConnections (Pokazuje połączone konta).
