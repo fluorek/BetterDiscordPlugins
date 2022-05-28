@@ -7,8 +7,21 @@
  - StatusEverywhere (Pokazuje twój i innych status w wielu miejscach).
  - SpotifyCrack (Możesz słuchać razem spotify bez discord nitro).
  - SplitLargeMessages (Możesz wysyłać dłuższe wiadomości).
+ - ShowHiddenChannels (Pokazuje niedostępne kanały).
+ - ShowConnections (Pokazuje połączone konta).
+ - ShowAllActivities (Pokazuje wszystkie aktywności).
+ - ServerDetails (Pokazuje detale serwera).
  - 
- - 
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
  
 ## Themes
  - [TransientMaterial](https://github.com/rauenzi/BetterDiscordAddons/tree/master/Themes/TransientMaterial) - Transparency patch theme for Nox. Also works fairly well on its own.
