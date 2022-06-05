@@ -8,6 +8,7 @@ Najlepsze pluginy Better Discord
 - UploadFromLinks (Umożliwia przesyłanie z linków poprzez otoczenie linku w kwadratowych nawiasach).
 - UnreadCountBadges (Pokazuje ilość nieprzeczytanych wiadomości).
 - TypingUsersAvatars (Pokazuje awatary osób, które piszą na kanale).
+- Translator (Tłumaczenie w discordzie).
 - StatusEverywhere (Pokazuje twój i innych status w wielu miejscach).
 - SpotifyCrack (Możesz słuchać razem spotify bez discord nitro).
 - SpotifyControls (Możesz kontrolować spotify z discorda).
@@ -21,11 +22,13 @@ Najlepsze pluginy Better Discord
 - ReadAllNotificationsButton (Możesz przeczytać wszystko jednym kliknięciem).
 - PinDMs (Przypnij znajomych na górę listy).
 - PermissionsViewer (Pokazuje uprawnienia innych).
+- OpenSteamLinksInApp (Otwiera linki ze steam w aplikacji).
 - NoBandwidthKick (Nie rozłącza cię z rozmowy po 5 minutach).
 - NitroEmoteAndScreenShareBypass (Masz emotki i udostępnianie ekranu jak w nitro).
 - MultiInstance (Możesz mieć wiele discordów jednocześnie).
 - MessageLoggerV2 (Zapisuje usunięte wiadomości).
 - MessageCleaner (Czyści kanał).
+- MagicUpload (Pozwala na wysyłanie większych plików).
 - LastMessageDate (Pokazuje datę ostatniej wysłanej wiadomości).
 - InvisibleTyping (Pisz bez pokazywania innym).
 - InAppNotifications (Pokazuje nowe wiadomości).
@@ -38,6 +41,9 @@ Najlepsze pluginy Better Discord
 - FavoriteMedia (Możesz oznaczać media jako ulubione).
 - EmojiStatistics (Pokazuje statystyki emoji).
 - EditUsers (Łatwiejsze edytowanie użytkowników).
+- EditServers (Łatwiejsze edytowanie serwerów).
+- EditRoles (Łatwiejsze edytowanie ról).
+- EditChannels (Łatwiejsze edytowanie kanałów).
 - DoNotTrack (Zapobiega zbieraniu informacji o tobie).
 - DiscordActivities (Umożliwia granie w beta gry discord).
 - CustomStatusPresets (Lepsze statusy).
