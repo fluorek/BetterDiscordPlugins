@@ -1,0 +1,67 @@
+# BetterDiscordPlugins
+Najlepsze pluginy Better Discord
+## Plugins
+- discordExperiments (Włącza funkcje eksperymentalne).
+- WhoReacted (Pokazuje awatary osób, które zaragowały).
+- VoiceChatMoveAll (Przenoś wszystkich na inny kanał).
+- VoiceActivity (Dołącz do kanału przez profil).
+- UploadFromLinks (Umożliwia przesyłanie z linków poprzez otoczenie linku w kwadratowych nawiasach).
+- UnreadCountBadges (Pokazuje ilość nieprzeczytanych wiadomości).
+- TypingUsersAvatars (Pokazuje awatary osób, które piszą na kanale).
+- StatusEverywhere (Pokazuje twój i innych status w wielu miejscach).
+- SpotifyCrack (Możesz słuchać razem spotify bez discord nitro).
+- SpotifyControls (Możesz kontrolować spotify z discorda).
+- SplitLargeMessages (Możesz wysyłać dłuższe wiadomości).
+- ShowHiddenChannels (Pokazuje niedostępne kanały).
+- ShowConnections (Pokazuje połączone konta).
+- ShowAllActivities (Pokazuje wszystkie aktywności).
+- SendTimestamps (Możesz dodać czas do wiadomości).
+- RelationshipsNotifier (Pokazuje wiadomości o relacjach takich jak dodanie do przyjaciół).
+- RedditMentions (Możesz otworzyć tematy reddita).
+- ReadAllNotificationsButton (Możesz przeczytać wszystko jednym kliknięciem).
+- PinDMs (Przypnij znajomych na górę listy).
+- PermissionsViewer (Pokazuje uprawnienia innych).
+- NoBandwidthKick (Nie rozłącza cię z rozmowy po 5 minutach).
+- NitroEmoteAndScreenShareBypass (Masz emotki i udostępnianie ekranu jak w nitro).
+- MultiInstance (Możesz mieć wiele discordów jednocześnie).
+- MessageLoggerV2 (Zapisuje usunięte wiadomości).
+- MessageCleaner (Czyści kanał).
+- LastMessageDate (Pokazuje datę ostatniej wysłanej wiadomości).
+- InvisibleTyping (Pisz bez pokazywania innym).
+- InAppNotifications (Pokazuje nowe wiadomości).
+- ImageUtilities (Możesz zapisywać i przybliżać obrazki itd.).
+- HideStreamPreview (Ukrywa podgląd twojego streama przed podglądaczami).
+- HideChatIcons (Chowa ikony czatu).
+- GuildProfile (Pokazuje detale serwera).
+- FileViewer (Możesz otwierać pliki w discordzie).
+- GameActivityToggle (przełącznik aktywności).
+- FavoriteMedia (Możesz oznaczać media jako ulubione).
+- EmojiStatistics (Pokazuje statystyki emoji).
+- EditUsers (Łatwiejsze edytowanie użytkowników).
+- DoNotTrack (Zapobiega zbieraniu informacji o tobie).
+- DiscordActivities (Umożliwia granie w beta gry discord).
+- CustomStatusPresets (Lepsze statusy).
+- CreationDate (Pokazuje datę stworzenia konta).
+- CallTimeCounter (Pokazuje ile czasu spędziłeś na kanale).
+- BugReportHelper (Usuwa błędy).
+- BiggerStreamPreview (Większy podgląd live).
+- BetterVolume (Lepsza kontrola głośności).
+- BetterSearchPage (Lepsze wyszukiwanie).
+- BetterRoleColors (Pokazuje wszędzie kolor roli).
+- BetterNsfwTag (Pokazuje znaczek NSFW przy kanałach).
+- BetterInvites (Lepsze zaproszenia).
+- BetterFriendList (Lepsza lista przyjaciół).
+- BetterFolders (Lepsze foldery).
+- BetterBotTags (Lepsze tagi botów).
+- BegoneAutoPause (Nie zatrzymuje muzyki po 30 sekundach).
+- AutoStartRichPresence (Pokazuje wizytówkę w miejscu aktywności).
+- AutoPlayGifs (Automatycznie włącza gify).
+- Apate (Dodaje ukryte wiadomości).
+- Animations (Dodaje animacje do discorda).
+- APlatformIndicators (Pokazuje platformy użytkowników).
+
+## Themes
+- BetterBadges (Lepsze odznaki).
+- Delux (Luksusowy discord).
+- Hacker (Dla hackermanów).
+- channelcolor (Kolory kanałów).
