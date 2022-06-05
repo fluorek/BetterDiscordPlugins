@@ -1,0 +1,45 @@
+{
+    "currentVersionInfo": {
+        "version": "1.6.1",
+        "hasShownChangelog": true
+    },
+    "image": {
+        "medias": [
+            {
+                "url": "https://images-ext-2.discordapp.net/external/C8JFZ1mCmw3XBRVpLLTJq_uKRIAL8zc1X8_7o6zW-HA/%3Fsize%3D48%26quality%3Dlossless/https/cdn.discordapp.com/emojis/943042207655530516.webp",
+                "width": 48,
+                "height": 48,
+                "name": "943042207655530516"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/979448300929433600/979449107070451793/untitled.png",
+                "width": 400,
+                "height": 225,
+                "name": "untitled"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/979448300929433600/979448737388699648/unknown.png",
+                "width": 400,
+                "height": 182,
+                "name": "unknown"
+            },
+            {
+                "url": "https://cdn.discordapp.com/attachments/979448300929433600/979458993187618827/20220526_210003.jpg",
+                "width": 225,
+                "height": 300,
+                "name": "20220526_210003"
+            }
+        ]
+    },
+    "video": {
+        "medias": [
+            {
+                "url": "https://cdn.discordapp.com/attachments/969923023022997544/975116522815102976/SPOILER_SPOILER_received_369063734597039.mp4",
+                "poster": "https://media.discordapp.net/attachments/969923023022997544/975116522815102976/SPOILER_SPOILER_received_369063734597039.mp4?format=jpeg&width=176&height=300",
+                "width": 176,
+                "height": 300,
+                "name": "SPOILER_SPOILER_received_369063734597039"
+            }
+        ]
+    }
+}
