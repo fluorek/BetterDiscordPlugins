@@ -1,0 +1,34 @@
+{
+	"all": {
+		"authKeys": {
+			"deepl": {
+				"paid": false
+			}
+		},
+		"choices": {
+			"received": {
+				"input": "auto",
+				"output": "$discord"
+			},
+			"sent": {
+				"input": "auto",
+				"output": "$discord"
+			}
+		},
+		"engines": {
+			"backup": "----",
+			"translator": "googleapi"
+		},
+		"exceptions": {
+			"wordStart": [
+				"!"
+			]
+		},
+		"general": {
+			"addTranslateButton": true,
+			"sendOriginalMessage": false,
+			"showOriginalMessage": true,
+			"usePerChatTranslation": true
+		}
+	}
+}

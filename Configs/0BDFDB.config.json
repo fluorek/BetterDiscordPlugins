@@ -5,12 +5,15 @@
 			"BetterSearchPage": "1.2.0",
 			"CreationDate": "1.4.6",
 			"CustomStatusPresets": "1.0.7",
+			"EditRoles": "1.0.8",
+			"EditServers": "2.3.7",
 			"EditUsers": "4.5.4",
 			"EmojiStatistics": "2.9.8",
 			"FriendNotifications": "1.8.1",
 			"GameActivityToggle": "1.1.3",
 			"ImageUtilities": "4.7.1",
 			"LastMessageDate": "1.2.8",
+			"OpenSteamLinksInApp": "1.1.4",
 			"PinDMs": "1.9.1",
 			"ServerDetails": "1.1.1",
 			"ShowHiddenChannels": "3.0.6",
@@ -27,7 +30,7 @@
 			"shareData": true
 		},
 		"hashes": {
-			"0BDFDB.data.json": "dc33a52a1b7ffcc8533e7ffb020183b69212fedd",
+			"0BDFDB.data.json": "71ab79fef0412511c395ed372eea5bb7e6249488",
 			"0BDFDB.raw.css": "e8d30d44e567f6a77ef4e90734c27c2b47306d20"
 		}
 	}
